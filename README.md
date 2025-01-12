@@ -40,6 +40,6 @@ If you share similar interests, [feel free to collaborate!](#-contact-me) 😊
 
 ## 📫 Contact Me
 
-[![My Website](https://img.shields.io/badge/🤔My-Website-yellow)](https://icyfish332.github.io)
+[![My Website](https://img.shields.io/badge/🤔%20My-Website-yellow)](https://icyfish332.github.io)
 [![Email Me](https://img.shields.io/badge/Email-me-red?logo=gmail)](mailto:lusiyuanzs+github@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=IcyFish332&color=blue) 
