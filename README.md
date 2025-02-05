@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align="center">
+  
+![Visitor Count](https://profile-counter.glitch.me/icyfish332/count.svg)
+
+</div>
+
 I’m Siyuan Lu, a **junior Ph.D. student in Artificial Intelligence**, with a current focus on:
 - **LLM-based Multi-Agent Systems (MAS):** Improving agent collaboration in large-scale systems.
 - **Self-Evolving Agents:** Exploring how agents can continuously reorganize and adapt themselves.
@@ -23,10 +29,6 @@ I’m Siyuan Lu, a **junior Ph.D. student in Artificial Intelligence**, with a c
 Based on a well-modeled world model of the physical world 🌍, build a self-evolving agent system 🤖 which can continuously receive multi-modal feedback 📄🎨🎥 (e.g., text, audio, images, video, 3D data) from the world 🌏 and adapt to the changing environment 🌟.
 
 If you share similar interests, [feel free to collaborate!](#-contact) 😊
-
-## 📊 GitHub Stats
-
-![Siyuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=IcyFish332&theme=holi&show_icons=true)
 
 ## 🔗 Featured Repositories
 
@@ -42,4 +44,3 @@ If you share similar interests, [feel free to collaborate!](#-contact) 😊
 
 [![My Website](https://img.shields.io/badge/🤔%20My-Website-yellow)](https://siyuan.lu)
 [![Email Me](https://img.shields.io/badge/Email-me-red?logo=gmail)](mailto:lusiyuanzs+github@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=IcyFish332&color=blue) 
