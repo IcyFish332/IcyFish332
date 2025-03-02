@@ -44,3 +44,6 @@ If you share similar interests, [feel free to collaborate!](#-contact) 😊
 
 [![My Website](https://img.shields.io/badge/🤔%20My-Website-yellow)](https://siyuan.lu)
 [![Email Me](https://img.shields.io/badge/Email-me-red?logo=gmail)](mailto:lusiyuanzs+github@gmail.com)
+
+
+![Snake animation](https://raw.githubusercontent.com/IcyFish332/IcyFish332/output/github-contribution-grid-snake-dark.svg)
