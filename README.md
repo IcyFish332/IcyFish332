@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  
-![Visitor Count](https://profile-counter.glitch.me/icyfish332/count.svg)
 
 ![Snake animation](https://raw.githubusercontent.com/IcyFish332/IcyFish332/output/github-contribution-grid-snake-dark.svg)
 
@@ -34,8 +32,8 @@ If you share similar interests, [feel free to collaborate!](#-contact) 😊
 
 ## 🔗 Featured Repositories
 
-<a href="https://github.com/RUCAIBox/CRSLab">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RUCAIBox&repo=CRSLab&theme=graywhite&bg_color=0,00FDD0,ABD4D4,A4B9D9,9B7DE2&hide_border=true" />
+<a href="https://github.com/inclusionAI/AWorld">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=inclusionAI&repo=AWorld&theme=graywhite&bg_color=0,00FDD0,ABD4D4,A4B9D9,9B7DE2&hide_border=true" />
 </a>
 
 <a href="https://github.com/LINs-lab/MASArena">
